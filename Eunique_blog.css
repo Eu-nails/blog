@@ -123,6 +123,17 @@ footer{
 color:#ee3e80 ;
 
 }
+@media only screen and (min-width: 375px){
+	.v-page{
+		margin-top: 24em;
+	}
+}
+
+@media only screen and (min-width: 425px){
+	.v-page{
+		margin-top: 21em;
+	}
+}
 
 @media only screen and (min-width: 500px){
 
@@ -170,9 +181,10 @@ color:#ee3e80 ;
 }
 
 
-@media only screen and (min-width: 780px){
+
+@media only screen and (min-width: 768px){
 .v-page{
-	margin-top: 13em;
+	margin-top: 14em;
 }
 
 }
